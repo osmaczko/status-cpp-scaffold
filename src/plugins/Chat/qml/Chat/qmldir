@@ -1,0 +1,4 @@
+module Chat
+plugin chat-plugin
+
+ChatView 1.0 ChatView.qml
